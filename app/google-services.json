@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044098575782",
+    "project_id": "spendsmart-d86aa",
+    "storage_bucket": "spendsmart-d86aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044098575782:android:15d440d10a801e6bb0b367",
+        "android_client_info": {
+          "package_name": "com.example.spendsmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzzgqfpD2-y1gZTUeqiI9aaq4HnE9F980"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
