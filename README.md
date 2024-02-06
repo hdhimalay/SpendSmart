@@ -1,1 +1,1 @@
-#[SpendSmart]
+## [SpendSmart]- An Expense Tracker Android App
